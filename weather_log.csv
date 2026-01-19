@@ -1,3 +1,8 @@
-Date,City,Temperature (°C),Weather Condition
-2026-01-15,lucknow,13.99,Haze
-2026-01-15,delhi,16.87,Clear
+Date,City,Temperature,Condition
+11-06-2025,Delhi,36.5,Clear
+12-06-2025,Delhi,37.8,Sunny
+13-06-2025,Delhi,38,Sunny
+14-06-2025,Delhi,34.2,Rain
+15-06-2025,Delhi,35,Clouds
+16-06-2025,Delhi,33.4,Rain
+17-06-2025,Delhi,34.7,Clear
