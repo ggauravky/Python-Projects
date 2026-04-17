@@ -1,0 +1,32 @@
+[
+    {
+        "id": 12,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "is_active": true
+    },
+    {
+        "id": 13,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "is_active": false
+    },
+    {
+        "id": 14,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "is_active": true
+    },
+    {
+        "id": 15,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "is_active": false
+    },
+    {
+        "id": 16,
+        "name": "Charlie Davis",
+        "email": "charlie.davis@example.com",
+        "is_active": true
+    }
+]
