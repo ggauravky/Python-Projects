@@ -1,0 +1,6 @@
+email,name,id,is_active
+john.doe@example.com,John Doe,12,True
+jane.smith@example.com,Jane Smith,13,False
+alice.johnson@example.com,Alice Johnson,14,True
+bob.brown@example.com,Bob Brown,15,False
+charlie.davis@example.com,Charlie Davis,16,True
