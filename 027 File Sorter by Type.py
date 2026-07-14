@@ -34,6 +34,8 @@ def sort_files(folder_path):
         full_path = os.path.join(folder_path, file)
 
         # write a check if file name is "day_01.py" then ignore this file
+        if file == "day_01.py":
+            continue
 
         if os.path.isfile(full_path):
             dest_folder = get_destination_folder(file)
